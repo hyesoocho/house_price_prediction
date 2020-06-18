@@ -17,4 +17,5 @@ From the Kaggle data, Random Forest and Lasso were performed to predict house pr
 * RoofMatl (Roof material)
 * BsmtQual (Height of the basement)
 * KitchenQual (Kitchen quality)
+
 Specifically, in terms of overall quality, the house price increased by $27,609 from very good (level 8) to excellent (level 9) and increased by $11,094 from excellent (level 9) to very excellent (level 10). The house that has very excellent overall quality, kitchen quality, and pool quality with Wood Shingles roof material, 100+ inches height of the basement, and proximity to the Northridge neighborhood would receive the highest house price.
