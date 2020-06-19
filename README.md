@@ -1,4 +1,4 @@
-#### House price prediction in Iowa from Kaggle using machine learning in R
+### House price prediction in Iowa from Kaggle using machine learning in R
 - Predicted house prices based on analysis of 79 variables that describe aspects of housing using advanced regression in R
 - Conducted exploratory data analysis (univariate analysis of outcome and explanatory variables and visualization)
 - Evaluated missing data and mechanisms of missingness
